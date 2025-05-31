@@ -50,4 +50,8 @@
 
 <img src="https://raw.githubusercontent.com/rafiibnugroho/rafiibnugroho/output/snake.svg" alt="Snake animation" />
 
+<<<<<<< HEAD
 ###
+=======
+###
+>>>>>>> 03902917b47882cd8f15b068c14361f4879bfd56
